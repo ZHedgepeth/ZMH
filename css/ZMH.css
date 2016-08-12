@@ -1,14 +1,27 @@
+<<<<<<< HEAD:css/ZMH.css
 #image {
   width: 200px;
+=======
+.image {
+  width: 300px;
+>>>>>>> 8239b19379c1bd9828f66240b05e6a46f04ca525:css/ZMH.css
   height: 200px;
-  float:right;
+  float: right;;
   padding: 10px;
 }
+<<<<<<< HEAD:css/ZMH.css
 span {
   color: blue;
 }
+=======
+
+>>>>>>> 8239b19379c1bd9828f66240b05e6a46f04ca525:css/ZMH.css
 a {
   font-size: 15pt;
+}
+
+span {
+  font-style: italic;
 }
 
 .project-list {
@@ -18,6 +31,7 @@ a {
   font-family: monospace;
   color: black;
 }
+
 .em {
   font-weight: bold;
 }
@@ -37,6 +51,14 @@ body {
   margin: 20px;
   padding: 10px;
 }
+
 h3 {
   color: darkslategrey;
 }
+<<<<<<< HEAD:css/ZMH.css
+=======
+
+h1 {
+  text-align: center;
+}
+>>>>>>> 8239b19379c1bd9828f66240b05e6a46f04ca525:css/ZMH.css
